@@ -1,0 +1,60 @@
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.exe
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.pdb
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.exe
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.pdb
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\fuchs.xnb
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\spieler.xnb
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\wolf.xnb
+C:\Users\Movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Background1.xnb
+C:\Users\Movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolke.xnb
+C:\Users\Movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\WolfSprung.xnb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\fuchs.xnb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\spieler.xnb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolke.xnb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Background1.xnb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\WolfSprung.xnb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.exe
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.pdb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.exe
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.pdb
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolf.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\fuchs.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\spieler.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolf.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolke.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Background1.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\WolfSprung.xnb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.exe
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.pdb
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.exe
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.pdb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\fuchs.xnb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\spieler.xnb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolf.xnb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolke.xnb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\WolfSprung.xnb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Background1.xnb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.exe
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.pdb
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.exe
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.pdb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\fuchs.xnb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\spieler.xnb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolf.xnb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolke.xnb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\WolfSprung.xnb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Background1.xnb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.exe
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\BetterThenBugs.pdb
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.csprojResolveAssemblyReference.cache
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.exe
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugs\obj\x86\Debug\BetterThenBugs.pdb

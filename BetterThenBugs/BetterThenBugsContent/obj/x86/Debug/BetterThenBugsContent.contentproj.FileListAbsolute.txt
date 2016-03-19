@@ -1,0 +1,5 @@
+c:\users\movementcat\documents\visual studio 2010\Projects\BetterThenBugs\BetterThenBugs\BetterThenBugsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michaelboerner\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Movementcat\Documents\Visual Studio 2010\Projects\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WhySoSad\Desktop\C#\BetterThenBugs\BettenThanBugs\BetterThenBugs\BetterThenBugsContent\obj\x86\Debug\BetterThenBugsContent.contentprojResolveAssemblyReference.cache

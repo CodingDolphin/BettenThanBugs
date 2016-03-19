@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fuchs.png</Source>
+      <Name>fuchs</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\fuchs.xnb</Output>
+      <Time>2012-12-18T17:30:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>spieler.png</Source>
+      <Name>spieler</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\spieler.xnb</Output>
+      <Time>2012-12-18T17:30:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wolf.png</Source>
+      <Name>Wolf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolf.xnb</Output>
+      <Time>2012-12-18T17:30:25+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Wolke.png</Source>
+      <Name>Wolke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Wolke.xnb</Output>
+      <Time>2012-12-19T19:44:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>WolfSprung.png</Source>
+      <Name>WolfSprung</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\WolfSprung.xnb</Output>
+      <Time>2012-12-20T12:01:29+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background1.png</Source>
+      <Name>Background1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\Background1.xnb</Output>
+      <Time>2012-12-22T16:55:37+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Movementcat\Dropbox\BetterThenBugs\BetterThenBugs\BetterThenBugs\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-27T05:26:21.6248927+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
